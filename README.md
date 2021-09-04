@@ -16,4 +16,4 @@ Git & GitHub E-learning project by RedKnife Studio sp. z o.o. for Akademia Odoo 
 - **git push origin *branch_name***
 
 ###
-Last changes made on 04.09.2021r. by Bartosz Baranski
+Last changes made on **04.09.2021r.** by *Bartosz Baranski*
